@@ -1,1 +1,1 @@
-# Nick-s-Fries-Prototype a  website samle with a nice flow
+# Nick-s-Fries-Prototype a  website sample with a nice flow
